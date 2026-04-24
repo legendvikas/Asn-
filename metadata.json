@@ -1,0 +1,6 @@
+{
+  "name": "SimpliSchool",
+  "description": "A clean, minimal school management system focused on core modules: Dashboard, Students, Attendance, Fees, Results, and Parent access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
